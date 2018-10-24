@@ -1,2 +1,2 @@
 # Website(in progress)
-this is my wesite
+This is my wesite. The work is in progress.
